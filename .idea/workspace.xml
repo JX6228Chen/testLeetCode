@@ -16,8 +16,15 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/multiThread" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1eBQWk3X66clDnQ4LvQec2alyMi" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -32,6 +39,11 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code\testLeetCode\testCode\src\main\resources" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -56,11 +68,16 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="280" y="4" key="#Project_Structure" timestamp="1593792588830">
+    <state x="280" y="4" key="#Project_Structure" timestamp="1593793796435">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="280" y="4" key="#Project_Structure/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1593792588830" />
+    <state x="280" y="4" key="#Project_Structure/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1593793796435" />
+    <state x="174" y="90" key="new project wizard" timestamp="1593793766985">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="174" y="90" key="new project wizard/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1593793766985" />
   </component>
 </project>
